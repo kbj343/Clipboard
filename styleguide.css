@@ -1,0 +1,181 @@
+h2, h3, h4, h5, h6 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+}
+p {
+  color: #99A0BD;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+}
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 1.5;
+  background: #f0f0f0;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+  margin: 50px auto 10px;
+}
+td {
+  width: 20%;
+}
+
+
+.Top {
+background: url("../projectfiles/bg-header-desktop.png");
+background-repeat: no-repeat;
+margin: 0;
+padding: 100px;
+}
+
+.introword {
+  width: 400px;
+  margin: 0 auto 50px;
+}
+
+.myButtoniOS {
+	box-shadow: 6px 12px 9px -7px #90e896;
+	background-color:#45c98d;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:13px 51px;
+	text-decoration:none;
+	text-shadow:0 0 0 #090d06;
+  margin-right: 10px;
+}
+.myButtoniOS:hover {
+	background-color:#d3f0e4;
+}
+.myButtoniOS:active {
+	position:relative;
+	top:1px;
+}
+.myButton {
+	box-shadow: 6px 12px 9px -7px #bbdaf7;
+	background-color:#4886c4;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	padding:13px 51px;
+	text-decoration:none;
+	text-shadow:0 0 0 #528ecc;
+  margin-left: 10px;
+}
+.myButton:hover {
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.snippets {
+width: 600px;
+margin: 30px auto 100px;
+}
+.computer {
+display: grid;
+grid-template-columns: auto auto;
+text-align: left;
+}
+.comcolright {
+width: 300px;
+}
+.comcolleft {
+  margin: auto;
+}
+.comcolleft img {
+  max-width: 500px;
+}
+.comppic {
+  height: 400px;
+  width: 600px;
+}
+.mobile {
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+.mobilewords {
+  width: 400px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.devicepic {
+  width: 700px;
+  height: 400px;
+}
+.supercharge {
+  margin: 50px auto;
+}
+.workflow{
+display: grid;
+grid-template-columns: auto auto auto;
+grid-gap: 20px;
+width: 80%;
+margin: 50px auto;
+}
+.flowrow img {
+  height: 30px;
+}
+
+.bottom {
+  width: 90%;
+  margin: 100px auto 100px auto;
+}
+.complogo {
+display: grid;
+grid-template-columns: auto auto auto auto auto;
+grid-gap: 5px;
+}
+
+.complogo img {
+}
+
+.bottomtext {
+width: 50%;
+margin: 100px auto;
+}
+.foot {
+  background-color: #DEDFE3;
+  height: 150px;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  align-content: center;
+}
+.footerlink {
+  font-family: 'Bai Jamjuree', sans-serif;
+  display: grid;
+  grid-template-rows: auto auto;
+}
+
+.mainlogo {
+  height: 50px;
+  width: 50px;
+
+}
+
+.sociallink {
+display: grid;
+grid-template-columns: 40px 40px 40px;
+grid-gap: 5px;
+align-content: center;
+}
+
+.sociallink img {
+max-width: 30px;
+}
